@@ -13,8 +13,6 @@ while building a small front-end project.
 - Delete tasks
 - View tasks by status
 
-
-
 Created by Alaa Nassar
 
-Edited by Alaa from local branch
+Edited by Alaa and Omar - final version after merge conflict
