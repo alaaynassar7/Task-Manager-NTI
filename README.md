@@ -17,3 +17,4 @@ while building a small front-end project.
 
 Created by Alaa Nassar
 
+Edited by Omar directly on main branch
