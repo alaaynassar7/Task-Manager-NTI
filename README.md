@@ -17,4 +17,8 @@ while building a small front-end project.
 
 Created by Alaa Nassar
 
+<<<<<<< HEAD
 Edited by Omar directly on main branch
+=======
+Edited by Alaa from local branch
+>>>>>>> feature-readme
